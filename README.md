@@ -41,6 +41,10 @@ The application supports **single predictions**, **batch predictions via CSV**, 
 ## Setup Instructions
 ```bash
 pip install -r requirements.txt
+
+```
+## UI & OUTPUT 
+
 <img width="1917" height="936" alt="Screenshot 2025-11-01 173311" src="https://github.com/user-attachments/assets/afc39451-cf56-4c2b-adb4-0470d1817e5f" />
 <img width="1909" height="940" alt="Screenshot 2025-11-01 173257" src="https://github.com/user-attachments/assets/bc918520-ea03-40b2-9f8a-4a8a02ca5510" />
 <img width="1918" height="940" alt="Screenshot 2025-11-01 173054" src="https://github.com/user-attachments/assets/0d3c4f48-6b93-476a-a10a-3d1523caaec3" />
